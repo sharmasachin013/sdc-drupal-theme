@@ -1,0 +1,1 @@
+# sdc-drupal-theme
